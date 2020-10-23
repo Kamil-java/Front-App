@@ -1,8 +1,24 @@
+# Back-App
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [ToDo](#todo)
+
+## General info
+It is a web application that allows you to set diets, exercise and calculate your caloric requirements. Especially for logged in users it will be possible (in the development phase) to receive up-to-date data on Covid-19.
+
+## Technologies
+Project is created with:
+* React
+* JS
+* CSS
+* Materialize version: 1.0.0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Setup
 
 In the project directory, you can run:
 
