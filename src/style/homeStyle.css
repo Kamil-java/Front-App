@@ -1,0 +1,46 @@
+.full{
+    min-height: 100vh;
+}
+.cover-str{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url('../assets/starter.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    border: solid 1px;
+}
+.cover-1{
+    background-image: url('../assets/time-home.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100%;
+}
+.cover-2{
+    background-image: url('../assets/chart.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100%;
+}
+.cover-3{
+    background-image: url('../assets/user-home.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100%;
+}
+.cover-4{
+    background-image: url('../assets/diet-home.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100%;
+}
+.cover-5{
+    background-image: url('../assets/workout-home.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100%;
+}
+.bold{
+    font-weight: bold;
+}

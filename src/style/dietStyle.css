@@ -1,0 +1,5 @@
+.back-diet{
+    background-image: url('../assets/diet.jpg');
+    background-size: cover;
+    min-height: 100vh;
+}

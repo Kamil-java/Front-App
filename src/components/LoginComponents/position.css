@@ -1,0 +1,8 @@
+.center-input{
+   position: relative;
+   left: 50%;
+   transform: translateX(-28%);
+}
+.btn-radius{
+    border-radius: 50px;
+}
